@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login to HRM","Login with valid credentials","SUCCESS","2023-02-13T15:49:06.0802352+05:30[Asia/Calcutta]","0.0","24.66"
+"Login to HRM","Login with inavlid credentials","SUCCESS","2023-02-13T15:49:31.1549113+05:30[Asia/Calcutta]","0.0","13.66"
+"Login to HRM","Login with invalid Username","SUCCESS","2023-02-13T15:49:45.0293746+05:30[Asia/Calcutta]","0.0","13.36"
+"Login to HRM","Login with invalid Password","SUCCESS","2023-02-13T15:49:58.6139389+05:30[Asia/Calcutta]","0.0","13.36"
+"Login to HRM","Login without Username and Password","SUCCESS","2023-02-13T15:50:12.2030517+05:30[Asia/Calcutta]","0.0","12.87"
